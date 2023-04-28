@@ -21,7 +21,10 @@
 ![note-taker-screenshots](/public/assets/images/Screenshot%202023-04-27%20at%206.52.45%20PM.png)
 
 
+![note-taker-pg2](public/assets/images/Screenshot%202023-04-27%20at%207.44.37%20PM.png)
+
+
 
 ## Deployment
 
-[delopyed-app]()
+[delopyed-app](https://tay-note-taker.herokuapp.com/)
